@@ -8,3 +8,7 @@
 
 ## J
 * [jabba] (https://github.com/shyiko/jabba#usage)
+
+## K
+* Kotlin
+    - [Explore the layout editor](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#3)
