@@ -12,3 +12,13 @@
 ## K
 * Kotlin
     - [Explore the layout editor](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#3)
+
+## L
+* Lazy Quantifier
+    - https://www.rexegg.com/regex-quantifiers.html#lazy_solution
+    - https://www.youtube.com/watch?v=bbZveyqVP40
+
+## M
+* Merge Sort
+    - [Merge Sort Algorithm](https://www.geeksforgeeks.org/merge-sort/)
+    - [.NET Fiddle](https://dotnetfiddle.net/IzReip)
