@@ -22,3 +22,7 @@
 * Merge Sort
     - [Merge Sort Algorithm](https://www.geeksforgeeks.org/merge-sort/)
     - [.NET Fiddle](https://dotnetfiddle.net/IzReip)
+
+## N
+* nohup
+  - [一分钟了解nohup和&的功效](https://blog.csdn.net/hl449006540/article/details/80216061)
