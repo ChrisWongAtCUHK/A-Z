@@ -30,3 +30,7 @@
 ## O
 * Object Pool
     - [Object Pool Design Pattern](https://sourcemaking.com/design_patterns/object_pool)
+
+## P
+* Prototype
+    - [Prototype 原型模式](https://ithelp.ithome.com.tw/articles/10221129)
