@@ -26,3 +26,7 @@
 ## N
 * nohup
   - [一分钟了解nohup和&的功效](https://blog.csdn.net/hl449006540/article/details/80216061)
+
+## O
+* Object Pool
+    - [Object Pool Design Pattern](https://sourcemaking.com/design_patterns/object_pool)
