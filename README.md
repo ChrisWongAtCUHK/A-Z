@@ -34,3 +34,7 @@
 ## P
 * Prototype
     - [Prototype 原型模式](https://ithelp.ithome.com.tw/articles/10221129)
+
+## Q
+* QR Code
+    - [qrcode 7.4.2](https://pypi.org/project/qrcode/)
