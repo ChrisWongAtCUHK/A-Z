@@ -38,3 +38,6 @@
 ## Q
 * QR Code
     - [qrcode 7.4.2](https://pypi.org/project/qrcode/)
+
+## R
+* [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement)
