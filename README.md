@@ -41,3 +41,7 @@
 
 ## R
 * [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement)
+
+## S
+* Singleton
+  - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
