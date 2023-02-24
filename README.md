@@ -61,3 +61,7 @@
 ## W
 * Web3
   - [Introduction to Web3](https://ethereum.org/en/web3/)
+
+## X
+* xargs
+  - [12 Practical Examples of Linux Xargs Command for Beginners](https://www.tecmint.com/xargs-command-examples/) 
