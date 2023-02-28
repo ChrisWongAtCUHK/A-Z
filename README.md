@@ -44,6 +44,7 @@
 
 ## R
 * [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement)
+* [【色彩學】色光三原色(RGB)與色料三原色(CMY)](https://www.gameislearning.url.tw/article_content.php?getb=5&foog=9998)
 
 ## S
 * Singleton
