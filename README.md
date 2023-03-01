@@ -1,3 +1,7 @@
+## A
+* AppCmd.exe
+  - [Listing a Specific Object](https://learn.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-appcmdexe#listing-a-specific-object)
+
 ## C
 * Cross-Site Request Forgery
   - [Cross-Site Request Forgery Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#cross-site-request-forgery-prevention-cheat-sheet)
