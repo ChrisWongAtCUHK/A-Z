@@ -11,6 +11,9 @@
 * Command
   - [[ Day 9 ] 初探設計模式 - 命令模式 ( Command Pattern )](https://ithelp.ithome.com.tw/articles/10204425) 
 
+## D
+* [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
+
 ## H
 * Hamming Code
     - [Hamming Code in Computer Network](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
