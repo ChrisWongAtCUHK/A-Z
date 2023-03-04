@@ -13,6 +13,7 @@
 
 ## D
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
+* [DNS](https://www.pcmag.com/encyclopedia/term/dns)
 
 ## H
 * Hamming Code
