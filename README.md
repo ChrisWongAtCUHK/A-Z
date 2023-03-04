@@ -15,6 +15,10 @@
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
 
+
+## E
+* egrep
+  - [What is egrep](https://pediaa.com/difference-between-grep-and-egrep/#egrep) 
 ## H
 * Hamming Code
     - [Hamming Code in Computer Network](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
