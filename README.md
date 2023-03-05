@@ -15,10 +15,14 @@
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
 
-
 ## E
 * egrep
-  - [What is egrep](https://pediaa.com/difference-between-grep-and-egrep/#egrep) 
+  - [What is egrep](https://pediaa.com/difference-between-grep-and-egrep/#egrep)
+  
+## F
+* Flyweight Design Pattern
+  - [The Flyweight Pattern Explained and Implemented in Java | Structural Design Patterns | Geekific](https://www.youtube.com/watch?v=qscOsQV-K14)
+
 ## H
 * Hamming Code
     - [Hamming Code in Computer Network](https://www.geeksforgeeks.org/hamming-code-in-computer-network/)
