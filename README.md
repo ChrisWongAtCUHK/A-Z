@@ -78,6 +78,8 @@
 ## S
 * Singleton
   - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
+* SQL
+  - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
 
 ## T
 * Tmux
@@ -102,3 +104,5 @@
 ## Y
 * youtube-dl
     - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
+
+https://github.com/ChrisWongAtCUHK?tab=repositories&q=&type=&language=&sort=name
