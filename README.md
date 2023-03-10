@@ -41,6 +41,7 @@
 
 ## J
 * [jabba] (https://github.com/shyiko/jabba#usage)
+* [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
 
 ## K
 * Kotlin
