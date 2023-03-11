@@ -47,6 +47,7 @@
 ## K
 * Kotlin
     - [Explore the layout editor](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#3)
+    - [Kotlin 中文教程2023](https://www.youtube.com/playlist?list=PLsEC4qT8YxBI3WSShX8lAkNifboda7y-S)
 
 ## L
 * Lazy Quantifier
