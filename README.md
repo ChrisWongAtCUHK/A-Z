@@ -48,6 +48,8 @@
     + [五分鐘學會 Lombok 用法](https://kucw.github.io/blog/2020/3/java-lombok/)  
 * [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
 * [jq](https://stedolan.github.io/jq/)
+* Javascript
+  - [Proxy](https://yucj.gitbooks.io/ecmascript-6/content/docs/proxy.html) 
 
 ## K
 * Kotlin
