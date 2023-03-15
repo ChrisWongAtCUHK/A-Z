@@ -74,6 +74,7 @@
 ## O
 * Object Pool
     - [Object Pool Design Pattern](https://sourcemaking.com/design_patterns/object_pool)
+* [Observer](https://refactoring.guru/design-patterns/observer)
 
 ## P
 * Prototype
