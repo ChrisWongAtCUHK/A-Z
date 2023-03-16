@@ -85,6 +85,8 @@
 ## Q
 * QR Code
     - [qrcode 7.4.2](https://pypi.org/project/qrcode/)
+* Quotes
+  - Coding like poetry should be short and concise. ― Santosh Kalwar   
 
 ## R
 * [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement)
