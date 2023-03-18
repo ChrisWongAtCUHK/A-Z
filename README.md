@@ -100,6 +100,8 @@
   - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
 * SQL
   - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
+* Svelte
+  - [GETTING STARTED](https://svelte.dev/docs#before-we-begin) 
 
 ## T
 * Tmux
