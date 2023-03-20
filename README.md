@@ -30,7 +30,8 @@
   - [250+ TOP MCQs on Grep Command and Answers Quiz](https://engineeringinterviewquestions.com/mcqs-on-grep-command-1-answers/)
 * git
   - [修改分支的名稱](https://backlog.com/git-tutorial/tw/reference/branch.html#sec3)
-    + [Rename a branch](https://github.com/ChrisWongAtCUHK/git-learning-notes/commit/56135f36f13ac2340ee33c3601b01c4895ee21de) 
+    + [Rename a branch](https://github.com/ChrisWongAtCUHK/git-learning-notes/commit/56135f36f13ac2340ee33c3601b01c4895ee21de)
+  - [Git tag](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag#:~:text=Tagging%20is%20generally%20used%20to,no%20further%20history%20of%20commits.)
 
 ## H
 * Hamming Code
