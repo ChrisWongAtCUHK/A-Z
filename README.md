@@ -129,7 +129,12 @@
 
 ## X
 * xargs
-  - [12 Practical Examples of Linux Xargs Command for Beginners](https://www.tecmint.com/xargs-command-examples/) 
+  - [12 Practical Examples of Linux Xargs Command for Beginners](https://www.tecmint.com/xargs-command-examples/)
+  - xargs: illegal option -- d
+```
+echo '11@22@33' | xargs -d '@' echo
+echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
+``` 
 
 ## Y
 * youtube-dl
