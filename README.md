@@ -139,5 +139,7 @@ echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
 ## Y
 * youtube-dl
     - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
-
 * [YAML 1.2](https://yaml.org/)
+
+## Z
+* [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format))
