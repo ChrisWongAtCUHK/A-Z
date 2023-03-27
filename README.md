@@ -106,7 +106,28 @@
 
 ## T
 * Tmux
-    - [Tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+  - [Tmux 使用教程](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+* TSQL
+  - Concate rows
+```
+DECLARE @t table
+(
+    Id int,
+    Name varchar(10)
+)
+INSERT INTO @t
+SELECT 1,'a' UNION ALL
+SELECT 1,'b' UNION ALL
+SELECT 2,'c' UNION ALL
+SELECT 2,'d' 
+
+SELECT ID,
+stuff(
+(
+    SELECT ','+ [Name] FROM @t WHERE Id = t.Id FOR XML PATH('')
+),1,1,'') 
+FROM (SELECT DISTINCT ID FROM @t ) t
+```
 
 ## U
 * UML
