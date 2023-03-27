@@ -138,6 +138,11 @@ FROM (SELECT DISTINCT ID FROM @t ) t
 ## V
 * Vim
   - [Vim Cheat Sheet](https://vim.rtorr.com/)
+  - Insert space with single keystroke
+```
+nnoremap <space> i<space><esc>
+```
+
 * Vue.js
   - Quick Start
     + [Creating a Vue Application](https://vuejs.org/guide/quick-start.html)
