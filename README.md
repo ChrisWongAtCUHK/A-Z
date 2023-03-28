@@ -142,6 +142,7 @@ FROM (SELECT DISTINCT ID FROM @t ) t
 ```
 nnoremap <space> i<space><esc>
 ```
+  - [How to open multiple files(as tabs) with single command? | VIM Editor](https://www.youtube.com/watch?v=lTWpBsb7EnI&list=PLpqQbpeQxfW0eJK-LSEzuEeC1u5vsQOUO&index=4)
 
 * Vue.js
   - Quick Start
