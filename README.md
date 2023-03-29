@@ -4,6 +4,16 @@
 
 ## B
 * [Brackers](https://brackets.io/)
+* bzip2
+  - [Compressing directory with bzip2](https://www.linuxquestions.org/questions/linux-newbie-8/compressing-directory-with-bzip2-336204/) 
+    + create a tar archive, then bzip2 compress the archive:
+    ```
+    tar -cf file.tar dir && bzip2 file.tar
+    ```
+    + or do this in one step:
+    ```
+    tar -cjf file.tar.bz2 dir
+    ```
 
 ## C
 * Cross-Site Request Forgery
