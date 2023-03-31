@@ -60,7 +60,8 @@
 * [JVM (Java Virtual Machine) Architecture](https://www.javatpoint.com/jvm-java-virtual-machine)
 * [jq](https://stedolan.github.io/jq/)
 * Javascript
-  - [Proxy](https://yucj.gitbooks.io/ecmascript-6/content/docs/proxy.html) 
+  - [Proxy](https://yucj.gitbooks.io/ecmascript-6/content/docs/proxy.html)
+  - [8 ways to use the Spread operator in JavaScript.](https://javascript.plainenglish.io/8-ways-to-use-spread-operator-in-javascript-b66fcf016efe)
 
 ## K
 * Kotlin
