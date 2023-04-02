@@ -114,6 +114,8 @@
   - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
 * SQL
   - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
+* SQL Server
+    - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16) 
 * Svelte
   - [GETTING STARTED](https://svelte.dev/docs#before-we-begin) 
 
@@ -179,7 +181,7 @@ echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
 
 ## Y
 * youtube-dl
-    - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
+      - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
 * [YAML 1.2](https://yaml.org/)
 
 ## Z
