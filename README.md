@@ -27,6 +27,15 @@
 ## D
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
+* Docker
+  + Run CentOS 8 in a docker container
+    ```
+    $docker pull centos:centos8
+    $docker run -it --name centos8server centos:centos8 /bin/bash
+    ```
+    ```
+    $docker exec -it centos8server /bin/bash
+    ```
 
 ## E
 * egrep
@@ -115,7 +124,7 @@
 * SQL
   - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
 * SQL Server
-    - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16) 
+  - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16) 
 * Svelte
   - [GETTING STARTED](https://svelte.dev/docs#before-we-begin) 
 
