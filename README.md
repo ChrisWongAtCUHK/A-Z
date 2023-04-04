@@ -26,6 +26,8 @@
 
 ## D
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
+* .Net
+  + [extern (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/extern) 
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
 * Docker
   + Run CentOS 8 in a docker container
