@@ -26,6 +26,8 @@
 
 ## D
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
+* Design Pattern
+  + [Factory Method](https://refactoring.guru/design-patterns/factory-method) 
 * .Net
   + [extern (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/extern) 
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
