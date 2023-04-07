@@ -56,6 +56,7 @@
 ## G
 * grep
   - [250+ TOP MCQs on Grep Command and Answers Quiz](https://engineeringinterviewquestions.com/mcqs-on-grep-command-1-answers/)
+  - [Grep Command In Unix With Simple Examples](https://www.softwaretestinghelp.com/grep-command-in-unix/)
 * git
   - [修改分支的名稱](https://backlog.com/git-tutorial/tw/reference/branch.html#sec3)
     + [Rename a branch](https://github.com/ChrisWongAtCUHK/git-learning-notes/commit/56135f36f13ac2340ee33c3601b01c4895ee21de)
