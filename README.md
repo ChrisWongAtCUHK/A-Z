@@ -133,7 +133,8 @@
 * SQL
   - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
 * SQL Server
-  - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16) 
+  - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16)
+  - [SELECT - HAVING (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-having-transact-sql?view=sql-server-ver16)
 * Svelte
   - [GETTING STARTED](https://svelte.dev/docs#before-we-begin) 
 
