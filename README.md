@@ -99,7 +99,9 @@
     - [.NET Fiddle](https://dotnetfiddle.net/IzReip)
 * Multimedia Messaging Service(MMS)
   - [What is MMS(Multimedia Messaging Service)? ](https://www.geeksforgeeks.org/what-is-mmsmultimedia-messaging-service/)
-
+* MySQL
+  - [Dealing with MySQL nulls and unique constraint](https://medium.com/@aleksandrasays/dealing-with-mysql-nulls-and-unique-constraint-d260f6b40e60)
+ 
 ## N
 * nohup
   - [一分钟了解nohup和&的功效](https://blog.csdn.net/hl449006540/article/details/80216061)
