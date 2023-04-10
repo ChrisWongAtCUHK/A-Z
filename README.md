@@ -139,7 +139,9 @@
   - [SELECT - HAVING (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-having-transact-sql?view=sql-server-ver16)
   - [CREATE TABLE (Transact-SQL) IDENTITY (Property)](https://learn.microsoft.com/en-gb/sql/t-sql/statements/create-table-transact-sql-identity-property?view=sql-server-ver16)
 * Svelte
-  - [GETTING STARTED](https://svelte.dev/docs#before-we-begin) 
+  - [GETTING STARTED](https://svelte.dev/docs#before-we-begin)
+  - SELECT
+    + [SELECT - GROUP BY- Transact-SQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-ver16#column-expression) 
 
 ## T
 * Tmux
