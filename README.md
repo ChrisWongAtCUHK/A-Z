@@ -98,6 +98,7 @@
 * Merge Sort
     - [Merge Sort Algorithm](https://www.geeksforgeeks.org/merge-sort/)
     - [.NET Fiddle](https://dotnetfiddle.net/IzReip)
+* [Middleware](https://www.pcmag.com/encyclopedia/term/middleware)
 * Multimedia Messaging Service(MMS)
   - [What is MMS(Multimedia Messaging Service)? ](https://www.geeksforgeeks.org/what-is-mmsmultimedia-messaging-service/)
 * MySQL
