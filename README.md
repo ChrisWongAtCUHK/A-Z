@@ -55,6 +55,8 @@
   - [The Flyweight Pattern Explained and Implemented in Java | Structural Design Patterns | Geekific](https://www.youtube.com/watch?v=qscOsQV-K14)
 
 ## G
+* Golang
+  - [Pointer receivers](https://go.dev/tour/methods/4) 
 * grep
   - [250+ TOP MCQs on Grep Command and Answers Quiz](https://engineeringinterviewquestions.com/mcqs-on-grep-command-1-answers/)
   - [Grep Command In Unix With Simple Examples](https://www.softwaretestinghelp.com/grep-command-in-unix/)
