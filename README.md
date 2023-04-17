@@ -124,7 +124,9 @@
 
 ## Q
 * QR Code
-    - [qrcode 7.4.2](https://pypi.org/project/qrcode/)
+  - [qrcode 7.4.2](https://pypi.org/project/qrcode/)
+* Quick Sort
+  - [【Day26】[演算法]-快速排序法Quick Sort](https://ithelp.ithome.com.tw/articles/10278644)
 * Quotes
   - Coding like poetry should be short and concise. ― Santosh Kalwar   
 
