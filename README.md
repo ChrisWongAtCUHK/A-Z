@@ -147,6 +147,7 @@
   - [Clustered and nonclustered indexes described](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16)
   - [SELECT - HAVING (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-having-transact-sql?view=sql-server-ver16)
   - [CREATE TABLE (Transact-SQL) IDENTITY (Property)](https://learn.microsoft.com/en-gb/sql/t-sql/statements/create-table-transact-sql-identity-property?view=sql-server-ver16)
+  - [SQL Server Table Variable Example](https://www.mssqltips.com/sqlservertip/6039/sql-server-table-variable-example/)
 * Svelte
   - [GETTING STARTED](https://svelte.dev/docs#before-we-begin)
   - SELECT
