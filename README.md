@@ -85,7 +85,7 @@
   - [Proxy](https://yucj.gitbooks.io/ecmascript-6/content/docs/proxy.html)
   - [8 ways to use the Spread operator in JavaScript.](https://javascript.plainenglish.io/8-ways-to-use-spread-operator-in-javascript-b66fcf016efe)
   - [JavaScript Anonymous Functions](https://www.javascripttutorial.net/javascript-anonymous-functions/)
-
+  - [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://blog.techbridge.cc/2019/02/23/javascript-this/)
 ## K
 * Kotlin
     - [Explore the layout editor](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#3)
