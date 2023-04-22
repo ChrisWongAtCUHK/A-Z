@@ -190,6 +190,8 @@ FROM (SELECT DISTINCT ID FROM @t ) t
 * Vim
   - [Vim Cheat Sheet](https://vim.rtorr.com/)
   - Insert space with single keystroke
+  - [Vim has a Terminal Mode!](https://gist.github.com/mahemoff/8967b5de067cffc67cec174cb3a9f49d)
+
 ```
 nnoremap <space> i<space><esc>
 ```
