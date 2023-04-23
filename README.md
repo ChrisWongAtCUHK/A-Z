@@ -93,9 +93,12 @@
 
 ## L
 * Lazy Quantifier
-    - https://www.rexegg.com/regex-quantifiers.html#lazy_solution
-    - https://www.youtube.com/watch?v=bbZveyqVP40
-* [Linux ln command examples](https://linuxhint.com/linux-ln-command-examples/)
+  - https://www.rexegg.com/regex-quantifiers.html#lazy_solution
+  - https://www.youtube.com/watch?v=bbZveyqVP40
+* Linux
+  - Command 
+    + [Linux ln command examples](https://linuxhint.com/linux-ln-command-examples/)
+    + [wc](https://ss64.com/bash/wc.html)
 
 ## M
 * Merge Sort
