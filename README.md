@@ -218,6 +218,8 @@ nnoremap <space> i<space><esc>
 echo '11@22@33' | xargs -d '@' echo
 echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
 ``` 
+* XSS
+  - [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 
 ## Y
 * youtube-dl
