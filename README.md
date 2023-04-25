@@ -222,8 +222,10 @@ echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
   - [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 
 ## Y
+* Y2K bug
+  - [A lazy fix 20 years ago means the Y2K bug is taking down computers now](https://www.newscientist.com/article/2229238-a-lazy-fix-20-years-ago-means-the-y2k-bug-is-taking-down-computers-now/)
 * youtube-dl
-      - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
+  - [[YouTube] Unable to extract uploader id #31530](https://github.com/ytdl-org/youtube-dl/issues/31530)
 * [YAML 1.2](https://yaml.org/)
 
 ## Z
