@@ -230,3 +230,5 @@ echo '11@22@33' | tr '@' '\0' | xargs -0 echo  # MacOS
 
 ## Z
 * [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format))
+* Zsh
+  - [Oh My Zsh - a delightful & open source framework for Zsh](https://ohmyz.sh/)
