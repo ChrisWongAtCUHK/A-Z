@@ -124,6 +124,8 @@
 ## P
 * Prototype
     - [Prototype 原型模式](https://ithelp.ithome.com.tw/articles/10221129)
+* Python
+    - [Playwright Python Tutorial: Getting Started With Python End To End Testing](https://www.lambdatest.com/blog/playwright-python-tutorial/)
 
 ## Q
 * QR Code
