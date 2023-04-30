@@ -3,7 +3,8 @@
   - [Listing a Specific Object](https://learn.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-appcmdexe#listing-a-specific-object)
 * AutoHotkey
   - FormatTime
-    + [Examples](https://www.autohotkey.com/docs/v2/lib/FormatTime.htm#Examples)  
+    + [Examples](https://www.autohotkey.com/docs/v2/lib/FormatTime.htm#Examples) 
+* [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 
 ## B
 * [Brackers](https://brackets.io/)
