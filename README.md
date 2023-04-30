@@ -142,6 +142,7 @@
   - [Hello World](https://legacy.reactjs.org/docs/hello-world.html)
   - [Introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
   - [【Day.07】React入門 - 簡介React、從class到Hook的發展歷史](https://ithelp.ithome.com.tw/articles/10241674)
+  - [Storybook for React tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
 
 ## S
 * Singleton
