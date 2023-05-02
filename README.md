@@ -7,7 +7,7 @@
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 
 ## B
-* [Brackers](https://brackets.io/)
+* [Brackets](https://brackets.io/)
 * bzip2
   - [Compressing directory with bzip2](https://www.linuxquestions.org/questions/linux-newbie-8/compressing-directory-with-bzip2-336204/) 
     + create a tar archive, then bzip2 compress the archive:
