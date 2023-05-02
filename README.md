@@ -7,6 +7,8 @@
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
 
 ## B
+* Bandizip
+  - [Command Line Parameters](https://www.bandisoft.com/bandizip/help/parameter/)
 * [Brackets](https://brackets.io/)
 * bzip2
   - [Compressing directory with bzip2](https://www.linuxquestions.org/questions/linux-newbie-8/compressing-directory-with-bzip2-336204/) 
