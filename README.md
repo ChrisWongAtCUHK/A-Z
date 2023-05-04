@@ -32,6 +32,7 @@
   - [Margins](https://www.w3schools.com/css/css_margin.asp)
 
 ## D
+* [DBeaver 介面語言](https://blog.tenyi.com/2018/01/dbeaver.html)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * Design Pattern
   + [Factory Method](https://refactoring.guru/design-patterns/factory-method) 
