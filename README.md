@@ -34,6 +34,7 @@
 
 ## D
 * [DBeaver 介面語言](https://blog.tenyi.com/2018/01/dbeaver.html)
+* [What is DBF File Extension? How to Open DBF?](https://www.whatisfileextension.com/dbf/)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * Design Pattern
   + [Factory Method](https://refactoring.guru/design-patterns/factory-method) 
