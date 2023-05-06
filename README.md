@@ -93,6 +93,8 @@
   - [JavaScript Anonymous Functions](https://www.javascripttutorial.net/javascript-anonymous-functions/)
   - [淺談 JavaScript 頭號難題 this：絕對不完整，但保證好懂](https://blog.techbridge.cc/2019/02/23/javascript-this/)
   - [Chain of Responsibility in JavaScript](https://betterprogramming.pub/chain-of-responsibility-in-javascript-21942601ed9c)
+  - [Object.freeze() vs Object.seal() vs Object.preventExtensions()](https://javascript.plainenglish.io/object-freeze-vs-object-seal-vs-object-preventextensions-e78ef3a24201)
+
 ## K
 * Kotlin
     - [Explore the layout editor](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#3)
