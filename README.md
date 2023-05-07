@@ -62,6 +62,7 @@
 
 ## G
 * Golang
+  - [Map vs Struct in GOlang (When to use)](https://articles.wesionary.team/map-vs-struct-in-golang-when-to-use-b0b66446627a)
   - [Pointer receivers](https://go.dev/tour/methods/4) 
 * grep
   - [250+ TOP MCQs on Grep Command and Answers Quiz](https://engineeringinterviewquestions.com/mcqs-on-grep-command-1-answers/)
