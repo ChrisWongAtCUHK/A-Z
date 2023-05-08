@@ -37,7 +37,8 @@
 * [What is DBF File Extension? How to Open DBF?](https://www.whatisfileextension.com/dbf/)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * Design Pattern
-  + [Factory Method](https://refactoring.guru/design-patterns/factory-method) 
+  + [Factory Method](https://refactoring.guru/design-patterns/factory-method)
+  + [Iterator Design Pattern](https://sourcemaking.com/design_patterns/iterator)
 * .Net
   + [extern (C# Reference)](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/extern) 
 * [DNS](https://www.pcmag.com/encyclopedia/term/dns)
