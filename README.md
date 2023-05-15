@@ -163,6 +163,9 @@
 ## S
 * Singleton
   - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
+* SOLID Design Principles
+  - Open-Closed principle
+    + [Open-Closed Principle – SOLID Architecture Concept Explained](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)   
 * SQL
   - [The SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
 * SQL Server
