@@ -60,6 +60,11 @@
 ## F
 * Flyweight Design Pattern
   - [The Flyweight Pattern Explained and Implemented in Java | Structural Design Patterns | Geekific](https://www.youtube.com/watch?v=qscOsQV-K14)
+* ffmpeg
+  ```
+  # convert from 10s with duration 5s to gif
+  $ ffmpeg -i input.mp4 -c:v gif -f gif -ss 00:00:10 -t 5 output.gif
+  ```
 
 ## G
 * Golang
