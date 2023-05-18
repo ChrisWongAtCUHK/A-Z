@@ -39,6 +39,10 @@
     + **Consistency** - ensures that transactions only make changes to tables in predefined, predictable ways. Transactional consistency ensures that corruption or errors in your data do not create unintended consequences for the integrity of your table.
     + **Isolation** - when multiple users are reading and writing from the same table all at once, isolation of their transactions ensures that the concurrent transactions don't interfere with or affect one another. Each request can occur as though they were occurring one by one, even though they're actually occurring simultaneously.
     + **Durability** - ensures that changes to your data made by successfully executed transactions will be saved, even in the event of system failure.
+  - [[Day 18] Transaction 併發錯誤與隔離層級 - (1)](https://ithelp.ithome.com.tw/articles/10247232)
+    + **Dirty Read** A dirty read occurs when a transaction reads data that has not yet been committed.
+    + **Non-repeatable Read** A nonrepeatable read occurs when a transaction reads the same row twice but gets different data each time.
+    + **Phantom Read** A phantom is a row that matches the search criteria but is not initially seen.
 * [DBeaver 介面語言](https://blog.tenyi.com/2018/01/dbeaver.html)
 * [What is DBF File Extension? How to Open DBF?](https://www.whatisfileextension.com/dbf/)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
