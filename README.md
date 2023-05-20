@@ -43,6 +43,11 @@
     + **Dirty Read** A dirty read occurs when a transaction reads data that has not yet been committed.
     + **Non-repeatable Read** A nonrepeatable read occurs when a transaction reads the same row twice but gets different data each time.
     + **Phantom Read** A phantom is a row that matches the search criteria but is not initially seen.
+  - [[Day 19] Transaction 併發錯誤與隔離層級 - (2)](https://ithelp.ithome.com.tw/articles/10247875)
+    + **Read Uncommitted** – In this level, one transaction may read not yet committed changes made by other transactions, thereby allowing dirty reads. At this level, transactions are not isolated from each other.
+    + **Read Committed** – This isolation level guarantees that any data read is committed at the moment it is read. Thus it does not allow dirty read. The transaction holds a read or write lock on the current row, and thus prevents other transactions from reading, updating, or deleting it.
+    + **Repeatable Read** – This is the most restrictive isolation level. The transaction holds read locks on all rows it references and writes locks on referenced rows for update and delete actions. Since other transactions cannot read, update or delete these rows, consequently it avoids non-repeatable read.
+    + **Serizable** – This is the highest isolation level. A serializable execution is guaranteed to be serializable. Serializable execution is defined to be an execution of operations in which concurrently executing transactions appears to be serially executing.
 * [DBeaver 介面語言](https://blog.tenyi.com/2018/01/dbeaver.html)
 * [What is DBF File Extension? How to Open DBF?](https://www.whatisfileextension.com/dbf/)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
