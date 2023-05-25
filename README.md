@@ -189,6 +189,10 @@
   - [CREATE TABLE (Transact-SQL) IDENTITY (Property)](https://learn.microsoft.com/en-gb/sql/t-sql/statements/create-table-transact-sql-identity-property?view=sql-server-ver16)
   - [SQL Server Table Variable Example](https://www.mssqltips.com/sqlservertip/6039/sql-server-table-variable-example/)
   - [Docker Express: Running a Local SQL Server on Your M1 Mac](https://medium.com/geekculture/docker-express-running-a-local-sql-server-on-your-m1-mac-8bbc22c49dc9)
+    ```
+    $ docker run -e "ACCEPT_EULA=1" -e "MSSQL_SA_PASSWORD=MyPass@word" -e "MSSQL_PID=Developer" -e "MSSQL_USER=SA" -d -v $(pwd)/files:/home/mssql/files --name=mssql -p 1433:1433 mcr.microsoft.com/azure-sql-edge 
+    $ docker exec -it mssql bash
+    ```
   - SELECT
     + [SELECT - GROUP BY- Transact-SQL](https://learn.microsoft.com/en-us/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-ver16#column-expression) 
 * Svelte
