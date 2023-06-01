@@ -6,6 +6,8 @@
   - FormatTime
     + [Examples](https://www.autohotkey.com/docs/v2/lib/FormatTime.htm#Examples) 
 * [Availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)
+  - [**What is the availability heuristic?**](https://www.scribbr.com/research-bias/availability-heuristic/#:~:text=sub%2Doptimal%20choices.-,What%20is%20the%20availability%20heuristic%3F,is%20most%20available%20to%20us.)
+  **The availability heuristic** (or **availability bias**) is a type of cognitive bias that helps us make fast, but sometimes incorrect, assessments. It involves relying on information that comes to mind quickly or is most available to us. 
 
 ## B
 * Bandizip
