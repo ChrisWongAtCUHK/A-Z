@@ -12,6 +12,8 @@
 ## B
 * Bandizip
   - [Command Line Parameters](https://www.bandisoft.com/bandizip/help/parameter/)
+* Bookmarklets
+  - [What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox](https://www.freecodecamp.org/news/what-are-bookmarklets/)  
 * [Brackets](https://brackets.io/)
 * bzip2
   - [Compressing directory with bzip2](https://www.linuxquestions.org/questions/linux-newbie-8/compressing-directory-with-bzip2-336204/) 
