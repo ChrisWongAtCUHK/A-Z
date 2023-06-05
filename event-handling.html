@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // label1
+  var lbl1 = document.querySelector('.lbl1');
+  // chkbox1
+  var chkbox1 = document.querySelector('#chkbox1');
+
+  lbl1.addEventListener('click', function (e) {
+    console.log('lbl1 click');
+  }, false);
+
+  chkbox1.addEventListener('click', function (e) {
+    e.stopPropagation();  // comment this line to see the propagation
+    console.log('chkbox1 click');
+  }, false);
+
+  // jquery
+  $('.lbl2').click(function() {
+    console.log('lbl2 click');
+  });
+
+  $('#chkbox2').click(function() {
+    console.log('chkbox2 click');
+    return false; // prevent default and stop progapation
+  });
+
+  // label3
+  var lbl3 = document.querySelector('.lbl3');
+  lbl3.addEventListener('click', function (e) {
+    console.log('lbl3 click');
+  }, false);
+
+  // label4
+  var lbl4 = document.querySelector('.lbl4');
+  // chkbox4
+  var chkbox4 = document.querySelector('#chkbox4');
+
+  lbl4.addEventListener('click', function (e) {
+    console.log('lbl4 click');
+  }, false);
+  
+  chkbox4.addEventListener('click', function (e) {
+    console.log('chkbox4 click');
+    return false; // no effect
+  }, false);
+});
+</script>
+</head>
+<body>
+
+  <div>
+    <label class="lbl1">
+      Label1 <input type="checkbox" name="chkbox" id="chkbox1">
+    </label>
+  </div>
+
+  <div>
+    <label class="lbl2">
+      Label2 <input type="checkbox" name="chkbox" id="chkbox2">
+    </label>
+  </div>
+
+  <div>
+    <label class="lbl3">
+      <!-- prevent default, but propagation exists -->
+      Label3 <input type="checkbox" name="chkbox" id="chkbox3" onclick="console.log('chkbox3 click'); return false;">
+    </label>
+  </div>
+
+  <div>
+    <label class="lbl4">
+      Label4 <input type="checkbox" name="chkbox" id="chkbox4">
+    </label>
+  </div>
+
+</body>
+</html>
