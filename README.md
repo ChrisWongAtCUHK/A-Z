@@ -122,6 +122,8 @@
   - [Chain of Responsibility in JavaScript](https://betterprogramming.pub/chain-of-responsibility-in-javascript-21942601ed9c)
   - [Object.freeze() vs Object.seal() vs Object.preventExtensions()](https://javascript.plainenglish.io/object-freeze-vs-object-seal-vs-object-preventextensions-e78ef3a24201)
   - [重新認識 JavaScript: Day 14 事件機制的原理](https://ithelp.ithome.com.tw/articles/10191970)
+  - [重新認識 JavaScript: Day 15 隱藏在 "事件" 之中的秘密](https://ithelp.ithome.com.tw/articles/10192015)
+    + 另外值得一提的是，很多人會在 jQuery 的 event handler 最後加上 return false 來得到 preventDefault() 與 stopPropagation() 的效果，這是沒問題的。但是在 JavaScript 的 addEventListener() 裡，最後面加上 return false 並不會有上述的的作用，只有在 onclick="return false" 的情況下會有作用。 
 
 ## K
 * Kotlin
