@@ -33,6 +33,9 @@
   -  [[Day9] - CSRF(Cross Site Request Forgery)](https://ithelp.ithome.com.tw/articles/10241830)
 * Command
   - [[ Day 9 ] 初探設計模式 - 命令模式 ( Command Pattern )](https://ithelp.ithome.com.tw/articles/10204425) 
+* [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) 
+  - [Asynchronous programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios) 
+    + [Recognize CPU-bound and I/O-bound work](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios#recognize-cpu-bound-and-io-bound-work)
 * CSS
   - [Margins](https://www.w3schools.com/css/css_margin.asp)
   - [Margin Collapse](https://www.w3schools.com/css/css_margin_collapse.asp)
