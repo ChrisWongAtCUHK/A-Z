@@ -107,7 +107,7 @@
 
 ## I
 * Inotify
-    - [inotifywait的安装及基本使用] (https://blog.csdn.net/qq_37788558/article/details/104985262)
+    - [inotifywait的安装及基本使用](https://blog.csdn.net/qq_37788558/article/details/104985262)
 * [Index Scan Vs. Index Seek in SQL Server](https://www.dbblogger.com/post/sql-server-performance-tuning-index-scan-vs-index-seek)
 
 ## J
