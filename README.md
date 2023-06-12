@@ -88,6 +88,8 @@
   # convert from 10s with duration 5s to gif
   $ ffmpeg -i input.mp4 -c:v gif -f gif -ss 00:00:10 -t 5 output.gif
   ```
+### Flutter
+* [What is the late keyword in Dart?](https://www.educative.io/answers/what-is-the-late-keyword-in-dart)
 
 ## G
 * Golang
