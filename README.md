@@ -38,6 +38,7 @@
 * [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) 
   - [Asynchronous programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios) 
     + [Recognize CPU-bound and I/O-bound work](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios#recognize-cpu-bound-and-io-bound-work)
+  - [Null-conditional operators ?. and ?[]](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-)
 * CSS
   - [Margins](https://www.w3schools.com/css/css_margin.asp)
   - [Margin Collapse](https://www.w3schools.com/css/css_margin_collapse.asp)
