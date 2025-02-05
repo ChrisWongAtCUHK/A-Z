@@ -60,6 +60,7 @@
     + **Repeatable Read** – This is the most restrictive isolation level. The transaction holds read locks on all rows it references and writes locks on referenced rows for update and delete actions. Since other transactions cannot read, update or delete these rows, consequently it avoids non-repeatable read.
     + **Serizable** – This is the highest isolation level. A serializable execution is guaranteed to be serializable. Serializable execution is defined to be an execution of operations in which concurrently executing transactions appears to be serially executing.
 * [DBeaver 介面語言](https://blog.tenyi.com/2018/01/dbeaver.html)
+  * [I am using DBeaver and go the error 'FATAL: database "postgres" does not exist'](https://superuser.com/questions/1405077/i-am-using-dbeaver-and-go-the-error-fatal-database-postgres-does-not-exist)
 * [What is DBF File Extension? How to Open DBF?](https://www.whatisfileextension.com/dbf/)
 * [Decorator Design Pattern](https://sourcemaking.com/design_patterns/decorator)
 * Design Pattern
