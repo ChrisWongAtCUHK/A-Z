@@ -193,7 +193,8 @@
   - [Introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
   - [【Day.07】React入門 - 簡介React、從class到Hook的發展歷史](https://ithelp.ithome.com.tw/articles/10241674)
   - [Storybook for React tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/)
-
+* Regular Expression
+  - [Grouping a subpattern and applying a quantifier](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Non-capturing_group#grouping_a_subpattern_and_applying_a_quantifier) 
 ## S
 * Singleton
   - [[ Day 5 ] 初探設計模式 - 單例模式 (Singleton)](https://ithelp.ithome.com.tw/articles/10203092)
